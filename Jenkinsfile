@@ -1,7 +1,7 @@
 node {
     // Mark the code checkout 'stage'....
     stage 'Checkout'
-    // Get some code from a GitHub repository
+    // Get some code from a GitHub repository.
     git url: 'https://github.com/saucelabs-sample-test-frameworks/Java-TestNG-Selenium.git'
     stage 'Compile'
     sh 'mvn compile'
