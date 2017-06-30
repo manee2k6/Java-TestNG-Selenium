@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <name>sauce_quickstart</name>
     <description>A sample Maven project that demonstrates how to integrate Sauce OnDemand with WebDriver tests
-        that run using TestNG for Automation
+        that run using TestNG for Automation purpose
     </description>
 
     <dependencies>
