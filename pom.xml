@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>sauce_quickstart</name>
-    <description>A   sample auto Maven project that demonstrates how to integrate Sauce OnDemand with WebDriver tests
+    <description>A introductory sample auto Maven project that demonstrates how to integrate Sauce OnDemand with WebDriver tests
         that run using TestNG for Automation purpose
     </description>
 
