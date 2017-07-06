@@ -39,10 +39,10 @@ public class SampleSauceTestBase implements SauceOnDemandSessionIdProvider, Sauc
 
 
     // Sauce username
-    public String username = "satishtaluru";
+    public String username = "kushp123";
 
     // Sauce access key
-    public String accesskey = "b261d36a-8fc4-4113-b320-6ac0ac5c29e1";
+    public String accesskey = "40690117-2c64-4fe8-b826-65e92daf5769";
 
     /**
      * Constructs a {@link SauceOnDemandAuthentication} instance using the supplied user name/access key.  To use the authentication
