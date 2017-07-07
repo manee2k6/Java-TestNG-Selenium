@@ -6,7 +6,7 @@ node {
     stage 'Compile'
     bat 'mvn compile'
     stage 'Test'
-    sauce('saucelabs') {
+    sauce('40690117-2c64-4fe8-b826-65e92daf5769') {
         sauceconnect(useGeneratedTunnelIdentifier: true, verboseLogging: true) {
             bat 'mvn test'
         }
